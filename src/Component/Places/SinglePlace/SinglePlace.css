@@ -1,0 +1,9 @@
+.single-image{
+    width: 50%;
+    margin: auto;
+    padding: 15px;
+}
+#singleService .card>.list-group,
+#singleService .card-body{
+    text-align: center;
+}

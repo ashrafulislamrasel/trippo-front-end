@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "City of Prophet's Mosque",
+        "city": "Medina",
+        "country":"Saudi Arabia",
+        "img": "https://i.ibb.co/Kwm11gd/03.png",
+        "url": "img",
+        "price": 68.36,
+        "description": "Medina is a city in western Saudi Arabia. In the city center, the vast Al-Masjid an-Nabawi (Prophet's Mosque) is a major Islamic pilgrimage site. Its striking Green Dome rises above the tombs of the Prophet Muhammad and early Islamic leaders Abu Bakr and Umar. The Masjid al-Qiblatain (Qiblatain Mosque) is known as the site where the Prophet Muhammad received the command to change the direction of prayer to Mecca. ― Google"
+    },
+    {
+        "id": "2",
+        "name": "The holiest city",
+        "city": "Mecca",
+        "country":"Saudi Arabia",
+        "img": "https://i.ibb.co/8DTNmsD/05.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Mecca, in a desert valley in western Saudi Arabia, is Islam’s holiest city, as it’s the birthplace of the Prophet Muhammad and the faith itself. Only Muslims are allowed in the city, with millions arriving for the annual Hajj (pilgrimage). Dating from the 7th century, the central Masjid al-Haram (Sacred Mosque) surrounds the Kaaba, the cloth-covered cubic structure that’s Islam’s most sacred shrine."
+    },
+    {
+        "id": "3",
+        "name": "Renault Mexicoo",
+        "city": "Mexico",
+        "country":"United Mexican States",
+        "img": "https://i.ibb.co/09VSwMG/01.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico"
+    },
+    {
+        "id": "4",
+        "name": "The Dark Forest Adventure",
+        "city": "Mexico",
+        "country":"United Mexican States",
+        "img": "https://i.ibb.co/tYSyCnC/02.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Three designers from Namyang, Korea and California pay homage to the Genesis sedan, justly so, as the premium sedan marked a true breakthrough from Hy"
+    },
+    {
+        "id": "5",
+        "name": "Masjid Al Aqsa",
+        "city": "Old City",
+        "country":"Jerusalem",
+        "img": "https://i.ibb.co/XywpZR5/Masjid-Al-Aqsa.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Al Masjid Al-Aqsa was founded forty days or months or years next to the Ka`bah. Historians believe that Prophet Ibrahim, peace and blessings be upon him, was the one who built or ordered Al-Aqsa to be built. It was demolished during the conquests of Jerusalem. `Umar Ibn Al-Khattab, may Allah be pleased with him, is the first one then who restored Al-Aqsa. He recognized the sight but nothing was built. When abdul-Malik Ibn Marwan held the office in the year 66 A.H., he rebuilt Al-Aqsa and the Dome of the Rock.Al-Aqsa is one of the largest and most important mosques in the Muslim world, and the earliest in Palestine."
+
+    },
+    {
+        "id": "6",
+        "name": "Red Square",
+        "city": "Moscow",
+        "country":"Russia",
+        "img": "https://i.ibb.co/C1pjJwW/04.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Moscow, on the Moskva River in western Russia, is the nation’s cosmopolitan capital. In its historic core is the Kremlin, a complex that’s home to the president and tsarist treasures in the Armoury. Outside its walls is Red Square, Russia's symbolic center. It's home to Lenin’s Mausoleum, the State Historical Museum's comprehensive collection and St. Basil’s Cathedral, known for its colorful, onion-shaped domes."
+    },
+    {
+        "id": "7",
+        "name": "Magic of Italy Tours",
+        "city": "Rome",
+        "country":"Italy",
+        "img": "https://i.ibb.co/ct6dNZH/06.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s 'David' and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital."
+    },
+    {
+        "id": "8",
+        "name": "Bora Bora Island",
+        "city": "The Islands of Tahiti",
+        "country":"Tahiti",
+        "img": "https://i.ibb.co/3vzZ66q/07.png",
+        "url": "img",
+        "price": 100.36,
+        "description": "Bora Bora is a small South Pacific island northwest of Tahiti in French Polynesia. Surrounded by sand-fringed motus (islets) and a turquoise lagoon protected by a coral reef, it’s known for its scuba diving. It's also a popular luxury resort destination where some guest bungalows are perched over the water on stilts. At the island's center rises Mt. Otemanu, a 727m dormant volcano."
+    }
+    
+]
