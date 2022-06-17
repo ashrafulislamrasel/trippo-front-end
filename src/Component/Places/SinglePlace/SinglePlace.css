@@ -7,3 +7,6 @@
 #singleService .card-body{
     text-align: center;
 }
+.hide{
+    opacity: 0;
+}

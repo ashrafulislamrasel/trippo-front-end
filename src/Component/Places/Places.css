@@ -1,0 +1,22 @@
+.banner{
+    background: url(https://images.unsplash.com/photo-1530044883105-5c13bbd3429b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    
+    background-size: cover;
+}
+.banner_overlay{
+    background-color: rgba(0,0,0,0.5);
+    padding: 250px;
+}
+.banner_content{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+}
+
+#places h3{
+    margin: 50px 0;
+}

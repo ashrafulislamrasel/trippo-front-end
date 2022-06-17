@@ -14,11 +14,13 @@ const Header = () => {
                     <Nav className="ms-auto">
                     <NavLink className='nav-link' to='/'>Home</NavLink>
                     <NavLink className='nav-link' to='/services'>Services</NavLink>
-                    <NavLink className='nav-link' to='/blog'>Blog</NavLink>
-                    <NavLink className='nav-link' to='/addservices'>Add Services</NavLink>
-                    <NavLink className='nav-link' to='/manageorders'>Manage Orders</NavLink>
                     {user.email?
-                        <>
+                    <>
+                    
+                    <NavLink className='nav-link' to='/add-service'>Add Services</NavLink>
+                    
+                    <NavLink className='nav-link' to='/all-orders'>All Orders</NavLink>
+                        
                         <Navbar.Text>
                             Signed in as: <a href="#login">{user.displayName}</a>
                         </Navbar.Text>
